@@ -1,20 +1,4 @@
-
-
-```
-████████████████████████████████████████████████████████████████████████
-█                                                                      █
-█                    ![Vault-Tec Terminal](banner.png)                 █
-█                                                                      █
-████████████████████████████████████████████████████████████████████████
-
-[BOOT SEQUENCE: INITIATED]
-[POWER GRID: STABLE]
-[MEMORY CHECK: OK]
-[SECURITY PROTOCOL: GREEN]
-[USER AUTHORIZATION: MARIK — VERIFIED]
-[ACCESS LEVEL: ARCHIVE SUPERVISOR]
-
---------------------------------------------------------------------------
+``` ████████████████████████████████████████████████████████████████████████ █ █ █ VAULT-TEC INDUSTRIES TERMINAL █ █ MODEL VT-AT-2077 / ARCHIVE UNIT █ █ █ ████████████████████████████████████████████████████████████████████████ ``` ![Vault-Tec Terminal](banner.png) ``` [BOOT SEQUENCE: INITIATED] [POWER GRID: STABLE] [MEMORY CHECK: OK] [SECURITY PROTOCOL: GREEN] [USER AUTHORIZATION: MARIK — VERIFIED] [ACCESS LEVEL: ARCHIVE SUPERVISOR] --------------------------------------------------------------------------
 
 SYSTEM DESCRIPTION LOG
 
