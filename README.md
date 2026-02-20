@@ -1,6 +1,3 @@
-```
-
-```
 ![Vault-Tec Terminal](banner.png)
 
 ```
