@@ -1,13 +1,9 @@
-# VAULT‑TEC ARCHIVE TERMINAL  
-### Secure Media Retrieval System — Model VT‑AT‑2077
 
-![Vault-Tec Terminal](banner.png)
 
 ```
 ████████████████████████████████████████████████████████████████████████
 █                                                                      █
-█                     VAULT-TEC INDUSTRIES TERMINAL                    █
-█                     MODEL VT-AT-2077 / ARCHIVE UNIT                  █
+█                    ![Vault-Tec Terminal](banner.png)                 █
 █                                                                      █
 ████████████████████████████████████████████████████████████████████████
 
