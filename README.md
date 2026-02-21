@@ -80,3 +80,4 @@ MIT License — разрешено использование, модифика�
 [END OF SYSTEM LOG]
 [AWAITING USER COMMAND]
 ```
+![Vault-Tec Terminal](virustotal.png)
